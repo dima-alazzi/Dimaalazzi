@@ -1,0 +1,11 @@
+
+body{font-family:Inter,Arial,sans-serif;background:#050608;color:#fff;margin:0;padding:0;line-height:1.6}
+.hdr{background:#0a0d12;padding:1rem;border-bottom:1px solid #111}
+.nav{display:flex;align-items:center;justify-content:space-between;max-width:1000px;margin:auto}
+.menu{list-style:none;display:flex;gap:1rem;margin:0;padding:0}
+a{color:#ffb36b;text-decoration:none}
+a:hover{opacity:.8}
+.hero{max-width:1000px;margin:4rem auto;text-align:center}
+.btn{border:1px solid #ffb36b;padding:.6rem 1rem;border-radius:8px;display:inline-block;margin-top:1rem}
+section{max-width:900px;margin:2rem auto;padding:0 1rem}
+.ftr{text-align:center;margin:3rem auto;color:#999}
